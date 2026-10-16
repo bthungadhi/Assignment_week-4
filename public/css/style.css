@@ -1,0 +1,11 @@
+.body {
+    background-color: #193a5c;
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    text-align: left;
+    color: #fff;
+}
+.judul {
+    text-align: center;
+    font-size: 50px;
+    color: #fff;
+}
